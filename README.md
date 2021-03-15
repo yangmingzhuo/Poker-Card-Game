@@ -1,2 +1,3 @@
 # Yang-Mingzhuo
-pokercard game
+pokercard game using QT creater 
+just for fun
