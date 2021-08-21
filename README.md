@@ -4,6 +4,6 @@ pokercard game using QT creater
 
 just for fun
 
-download folder poker for code and source file 
+download folder poker for source code and file 
 
 download  the whole folder poker_release for released version
